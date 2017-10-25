@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width, initial scale=1.0" />
+<title>Cirrus IoT</title>
+
+</head>
+<body style="background-color: #ebebeb; margin: 0px; padding: 0px;">
+<custom name="opencounter" type="tracking">
+<table bgcolor="#ebebeb" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#ebebeb" style="padding-top: 10px;" valign="top" class=""><span class="preheader" style="color:#ebebeb; font-family:'SalesforceSansRegular', ProximaNovaRegular, Arial, Helvetica, sans-serif;font-size:1px;">Learn more about your device!</span>
+			<table bgcolor="#004d71" border="0" cellpadding="0" cellspacing="0" class="wrapper" width="600">
+				<tbody>
+					<tr>
+						<td align="center" background="https://c2.sfdcstatic.com/content/dam/web/en_us/www/images/iot-cloud/sfdc-iot-overview-bg-lg-md-v2t.jpg" bgcolor="#099ddc" height="260" style="font-family: 'SalesforceSansRegular',ProximaNovaRegular, Arial, Helvetica, sans-serif; margin: 0px; valign="middle"></td>
+					</tr>
+				</tbody>
+			</table>
+			<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="wrapper" width="600">
+				<tbody>
+					<tr>
+						<td align="center" style="padding-top: 40px; padding-right: 50px; padding-left: 50px;" valign="top" class=""><span style="font-family: 'SalesforceSansRegular',ProximaNovaRegular, Arial, Helvetica, sans-serif; color:#004d71; font-size:22px; line-height:26px; margin: 0px;">{!Contact.Name}, your {!Asset.Name} (serial number: {!Asset.Serial_Number__c}) seems like it might have problem, The temperature is at 40 degrees or above!</span><br>
+						<br>
+						</td>
+					</tr>
+					<tr>
+						<td style="padding-top: 5px; padding-right: 50px; padding-bottom: 10px; padding-left: 50px;" valign="top" class=""><span style="font-family: 'SalesforceSansRegular',ProximaNovaRegular, Arial, Helvetica, sans-serif; color:#555555; font-size:17px; line-height:24px; margin: 0px;">Our engineers, scientists and product leaders will be your guides on a path of discovery and adventure. Learn about the latest Salesforce IoT, meet other makers, and have fun along the way!
+						</span></td>
+					</tr>
+					<tr>
+						<td align="center" style="padding-top: 5px; padding-right: 40px; padding-bottom: 50px; padding-left: 40px;" valign="top">
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td align="center" bgcolor="#eb8400" style="padding: 10px 20px;" valign="middle" class=""><a href="https://developer.salesforce.com/trailheadx" style="font-family: 'SalesforceSansRegular',ProximaNovaRegular, Arial, Helvetica, sans-serif; color: #ffffff;  text-decoration: none; font-size: 18px; line-height: 16px;" target="_blank" title="REGISTER NOW"><span style="color: #ffffff; text-decoration: none;">CHECK OUT HOW TO CONNECT YOUR DEVICES>></span></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" bgcolor="#ffffff" valign="top" class="">&nbsp;</td>
+					</tr>
+<!-- FOOTER-->
+					<tr>
+		 <td align="center" bgcolor="#00a2dd" style="padding: 10px 0px;">
+			<div align="center">
+				  <table class="container" cellpadding="0" cellspacing="0" width="185" height="70" align="center">
+					<tr>
+            			<td width="150" align="center" style="font-family:SalesforceSansRegular, Helvetica, Arial, sans-serif; font-size: 14px; color: #ffffff; padding: 20px 0px 15px 0px;">#SalesforceIoT</td>
+            		</tr>
+            		<tr>
+						<td width="150" valign="center" align="center" style="font-family:Verdana, Helvetica, Arial, sans-serif; padding: 0px 0px 20px;">
+ 							<table cellpadding="0" cellspacing="0" width="185" height="40" align="center">
+                                <tr>
+									<td width="35" align="center" style="font-family:Verdana, Helvetica, Arial, sans-serif; padding: 0px 5px;"><a href="https://twitter.com/salesforcedevs" style="text-decoration:none" target="_blank"><img src="https://image.mktg.salesforce.com/lib/fe631570776d0d7e7417/m/3/twitter_icon.png" width="25" height="25" alt="t" style="display:block; color:#FFFFFF;" border="0" /></a></td>
+									<td width="35" align="center" style="font-family:Verdana, Helvetica, Arial, sans-serif; padding: 0px 5px;"><a href="https://www.facebook.com/salesforcedevs/" style="text-decoration:none" target="_blank"><img src="https://image.mktg.salesforce.com/lib/fe631570776d0d7e7417/m/3/facebook_icon.png" width="25" height="25" alt="f" border="0" style="display:block; color:#FFFFFF;" /></a></td>
+									<td width="35" align="center" style="font-family:Verdana, Helvetica, Arial, sans-serif; padding: 0px 5px;"><a href="https://www.linkedin.com/company/5254782" style="text-decoration:none" target="_blank"><img src="https://image.mktg.salesforce.com/lib/fe631570776d0d7e7417/m/3/linkedIn_icon.png" width="25" height="25" alt="in" border="0" style="display:block; color:#FFFFFF;" /></a></td>
+									<td width="35" align="center" style="font-family:Verdana, Helvetica, Arial, sans-serif; padding: 0px 5px;"><a href="https://www.youtube.com/user/DeveloperForce" style="text-decoration:none" target="_blank"><img src="http://res.cloudinary.com/hpzj96m68/image/upload/v1461615536/sf-youtube_qtbg9b.png" width="25" height="25" alt="g+" border="0" style="display:block; color:#FFFFFF;" /></a></td>
+									<td width="35" align="center" style="font-family:Verdana, Helvetica, Arial, sans-serif; padding: 0px 5px;"><a href="https://www.instagram.com/salesforcedevs/" style="text-decoration:none" target="_blank"><img src="https://image.mktg.salesforce.com/lib/fe631570776d0d7e7417/m/3/instragram_icon.png" width="25" height="25" alt="i" border="0" style="display:block; color:#FFFFFF;" /></a></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</td>	
+	</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</custom>
+</body></html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>when device has temperature warning, send this email</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Fridge Temperature Warning</name>
+    <style>none</style>
+    <subject>Fridge Warning on ({!Asset.Name}) ({!Asset.Serial_Number__c})</subject>
+    <textOnly>Cirrus IoT
+
+Learn more about your device!
+
+{!Contact.Name}, your {!Asset.Name} (serial number: {!Asset.Serial_Number__c}) battery is about to die, here are some options!
+
+Our engineers, scientists and product leaders will be your guides on a path of discovery and adventure. Learn about the latest Salesforce IoT, meet other makers, and have fun along the way!
+
+CHECK OUT HOW TO CONNECT YOUR DEVICES&gt;&gt;
+
+#SalesforceIoT</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
